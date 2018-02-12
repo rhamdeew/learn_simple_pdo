@@ -1,6 +1,8 @@
 <?php
 session_start();
 
+include 'db.php';
+
 $login = 'vasya';
 $password = '123456';
 
