@@ -11,5 +11,6 @@ if (!empty($_POST['login']) && !empty($_POST['password'])) {
 }
 
 if (!empty($_SESSION['login'])) {
-    echo 'Привет, '.$_SESSION['login'].'!';
+    echo 'Привет, '.$_SESSION['login'].'!<br/>';
+    echo '<a href="/logout.php">Выход</a>';
 }
