@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Главная</title>
+    <title>Страница 2</title>
 </head>
 <body>
     <nav>
@@ -13,11 +13,8 @@
         </ul>
     </nav>
 
-    <section>
-        <h1>Заголовок</h1>
+    <h1>Заголовок</h1>
 
-        <p>Текст главной страницы</p>
-    </section>
-
+    <p>Текст страницы 2</p>
 </body>
 </html>
