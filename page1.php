@@ -1,4 +1,5 @@
 <?php
+include 'core.php';
 include 'template/_header.php';
 ?>
         <h1>Заголовок</h1>

@@ -1,12 +1,6 @@
 <?php
+include 'core.php';
 include 'template/_header.php';
-?>
-<?php
-if (!empty($_POST['login']) && !empty($_POST['password'])) {
-    echo '<pre>';
-    var_dump($_POST);
-    echo '</pre>';
-}
 ?>
         <h1>Заголовок</h1>
 
